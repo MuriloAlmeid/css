@@ -1,0 +1,2 @@
+margin = margem no lado exterior do conteudo
+padding = margem na lado inteiror do conteudo
